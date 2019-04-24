@@ -1,6 +1,6 @@
 # 122A Final Project
 
-A Clear LCD Touchscreen Display.
+A Clear LCD Touchscreen Display. An embedded systems project
 
 
 The idea behind this project: 
