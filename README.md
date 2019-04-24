@@ -12,3 +12,5 @@ My project is a clear LCD touchscreen panel which is used as a window and also d
 The touchscreen is interactive and allows you to check off items if you've remembered.
 
 Demo: https://www.youtube.com/watch?v=SuoE_3ouzw8 
+REPORT: https://drive.google.com/open?id=1oTXyhiLZB3aBarGMyGHoGOILTiSbDtAT6wpY0AUtpx8
+DIY Smart Window: https://drive.google.com/open?id=19I0xqubS5WYOplB4gRtwU-wQU9vfbIx6ByBJ1o5FEyo 
